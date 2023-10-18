@@ -28,31 +28,57 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 
 ## Work Experience
 
-### Job Title 1
+**Full Stack Developer**  
+*November 2022 - March 2023*  
+*Mrs. Nanteza Charlotte, Kampala, Uganda*  
+[Website: PesaJet](https://www.pesajet.com)
 
-- **Company:** Company Name
-- **Date:** Month Year - Month Year
-- **Description:** Brief description of your role and accomplishments.
+- Worked on the development of a mobile application for a client using **React Native** and **Flask-Python** backend.
+- Participated in agile development sprints and collaborated with team members on code reviews and testing.
+- Assisted with the documentation of project requirements and user stories for Business PesaJet.
 
-### Job Title 2
+**Team Lead**  
+*September 2022 - October 2022*  
+*Mr. Innocent Kawooya, Kampala, Uganda*  
+[Website: HiPiPO](https://www.hipipo.org/)
 
-- **Company:** Company Name
-- **Date:** Month Year - Month Year
-- **Description:** Brief description of your role and accomplishments.
+- Mentored and guided team members to ensure the proper completion of assigned duties and produced detailed design documents and software.
+- Built strong relationships with other teams through a positive attitude and attentive response.
+- Conducted training and mentored team members to promote productivity and commitment to friendly service.
+- Coordinated weekly meetings for internal and external groups, efficiently resolving conflicts during such meetings.
+- Collaborated with colleagues to create prototypes for designs and training materials, resulting in achieving the second position in the hackathon for Business HiPiPO.
+
+**Software Developer**  
+*June 2021 - September 2022*  
+*Dr. Mary Nsabagwa, Makerere University*  
+[Website: WIMEA-ICT](https://wimea.mak.ac.ug)
+
+- Developed the Weather Information Dissemination System project using the PHP programming language.
+- Learned software engineering process improvements and best practices.
+- Supported development, QA, and user experience staff to develop new products.
+- Wrote clear and clean code for various project modules, contributing to the team's success.
+- Attended training to learn software development theory, techniques, and coding best practices.
 
 ## Education Background
 
-### Degree 1
+|**Bachelor of Science in Software Engineering**  |
+*August 2018 - March 2023*  
+*Makerere University, Kampala, Uganda*
 
-- **Institution:** University Name
-- **Date:** Month Year - Month Year
-- **Description:** Brief description of your degree and achievements.
+- **CGPA:** 4.59/5 (First Class Degree).
+- Awarded the title of **Best Graduate** 
+- Received a **Madhavani sponsorship** to support my studies.
+- Completed a dissertation in **Embedded Systems development**.
+ | 
+|**Uganda Advanced Certificate of Education (U.A.C.E)** | 
+|*May 2016 - August 2017*  
+*Wakataayi Secondary School, Zirobwe-Luweero, Uganda*
 
-### Degree 2
+- Received several scholarships and successfully completed the advanced level of education.
+- Awarded the Uganda Advanced Certificate of Education with a score of 15 points (PEM/ICT).
+- Served as a member of the Wakataayi Muslims Student Association.
+- Elected as the Head Prefect for the academic year 2016/2017.|
 
-- **Institution:** University Name
-- **Date:** Month Year - Month Year
-- **Description:** Brief description of your degree and achievements.
 
 ## Personal Skills
 
