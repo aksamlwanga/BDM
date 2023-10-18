@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" style="color:green">Engr. LWANGA AKSAM</h1>
 
-## ![👤](https://raw.githubusercontent.com/devicons/devicon/master/icons/account/verified_badge.svg) **Personal Information**
+## ![👤] **Personal Information**
 
 **|** 💼 **Sex**           | MALE                      |
 **|** 🎂 **Date of Birth**  | 21/10/1997                |
