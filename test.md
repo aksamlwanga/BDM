@@ -68,15 +68,21 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 
 | **Uganda Advanced Certificate of Education (U.A.C.E)** | **May 2016 - August 2017** | *Wakataayi Secondary School, Zirobwe-Luweero, Uganda* |
 | --- | --- | --- |
-| - Received several scholarships and successfully completed the advanced level of education. | - Awarded the Uganda Advanced Certificate of Education with a score of 15 points (PEM/ICT). | - Served as a member of the Wakataayi Muslims Student Association. |
+| - Received several scholarships and successfully completed the advanced level of education. | - Awarded the Uganda Advanced Certificate of Education with a score of 15/20 points (PEM/ICT). | - Served as a member of the Wakataayi Muslims Student Association. |
 | - Elected as the Head Prefect for the academic year 2016/2017. | | |
 
 
 ## Personal Skills
+|-----------------|-----------------|
+| Front-end Development | Backend Development |
+| Embedded System Management | Google Workspace |
+| Communication Skills | Problem-solving |
+| Prototyping | Performance Improvement |
+| Technical Support | Staff Education and Training |
+| Knowledgeable in Developing Systems | Telemarketing Expertise |
+| Organization and Time Management | Planning and Coordination |
+| Critical Thinking | Good Communication |
 
-- Skill 1
-- Skill 2
-- Skill 3
 
 ## Programming Languages and Tools
 
