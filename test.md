@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" style="color:green">Engr. LWANGA AKSAM</h1>
 
-## ![👤] **Personal Information**
+## 👤 **Personal Information**
 
 **|** 💼 **Sex**           | MALE                      |
 **|** 🎂 **Date of Birth**  | 21/10/1997                |
@@ -21,13 +21,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
+## 📜 Personal Statement
 
-## Personal Statement
 **I'm a versatile Software Engineer** with a proven track record of contributing to team projects. *I specialize in designing creative solutions and custom products.* **My programming skills and ability to create unique art** make me a valuable asset.
 
 My work is guided by a commitment to *excellence* and a belief in a *higher purpose.* I'm always eager to learn and find ways to help my colleagues. I approach each day with a *positive attitude*, focusing on actions rather than words.
 
-## Work Experience
+## 🏢 Work Experience
 
 **Full Stack Developer**  
 *November 2022 - March 2023*  
@@ -60,7 +60,7 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 - Wrote clear and clean code for various project modules, contributing to the team's success.
 - Attended training to learn software development theory, techniques, and coding best practices.
 
-## Education Background
+## 🎓 Education Background
 
 | **Bachelor of Science in Software Engineering** | **August 2018 - March 2023** | *Makerere University, Kampala, Uganda* |
 | --- | --- | --- |
@@ -73,7 +73,7 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 | - Elected as the Head Prefect for the academic year 2016/2017. | | |
 
 
-## Personal Skills
+## 🛠️ Personal Skills
 
 **|** Front-end Development **|** Backend Development **|**
 **|** Embedded System Management **|**  Google Workspace **|** 
@@ -85,7 +85,7 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 **|**  Critical Thinking **|**
 
 
-## Programming Languages and Tools
+## 💻 Programming Languages and Tools
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">
@@ -111,7 +111,7 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="40" height="40">
 
 
-## Links
+## 🔗 Links
 
 - [Kayunga Community Club](https://www.kayungacommunityclub.org/)
 - [Aspen Uganda](https://aspenuganda.com/)
