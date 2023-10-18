@@ -5,17 +5,16 @@
 <h1 align="center" style="color🍏">LWANGA AKSAM</h1>
 
 ## Personal Information
-
-| 💼 **Sex**           | MALE                      
-| 🎂 **Date of Birth**  | 21/10/1997                
-| 🌍 **Nationality**    | UGANDAN                   
-| 📍 **Location**       | Kampala, Uganda           
-| 📞 **Phone**          | +(256)-751109725           
-|                      | +(256)-778254366           
-|                      | +(601)-77183570            
-| 📧 **Email**          | lwangaaksam@gmail.com     
-|                      | aksam@graduate.utm.my     
-| 🌐 **Website**        | [aboutaksam.netlify.app](https://aboutaksam.netlify.app) 
+| 💼 **Sex**           | MALE                      |
+| 🎂 **Date of Birth**  | 21/10/1997                |
+| 🌍 **Nationality**    | UGANDAN                   |
+| 📍 **Location**       | Kampala, Uganda           |
+| 📞 **Phone**          | +(256)-751109725           **|**
+|                      | +(256)-778254366           |
+|                      | +(601)-77183570            |
+| 📧 **Email**          | lwangaaksam@gmail.com     |
+|                      | aksam@graduate.utm.my     |
+| 🌐 **Website**        | [aboutaksam.netlify.app](https://aboutaksam.netlify.app) |
 
 ## Personal Statement
 
