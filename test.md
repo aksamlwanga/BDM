@@ -1,26 +1,18 @@
 <p align="center">
   <img src="passport_id.jpg" alt="Profile Avatar">
 </p>
-<h1 align="center" style="color: #4CAF50; font-style: italic;">LWANGA AKSAM</h1>
+# <span style="color:#4CAF50; font-style:italic;">LWANGA AKSAM</span>
 
 ## Personal Information
-| 💼 **Sex**           | MALE      |
-| 🎂 **Date of Birth**  | 21/10/1997   |
-
-| 🌍 **Nationality**    | UGANDAN      |
-
-| 📍 **Location**       | Kampala, Uganda|
-
-| 📞 **Phone**          | +(256)-751109725|
-
-|                      | +(256)-778254366 |
-
-|                      | +(601)-77183570|
-
-| 📧 **Email**          | lwangaaksam@gmail.com|
-
-|                      | aksam@graduate.utm.my|
-
+| 💼 **Sex**           | MALE                      |
+| 🎂 **Date of Birth**  | 21/10/1997                |
+| 🌍 **Nationality**    | UGANDAN                   |
+| 📍 **Location**       | Kampala, Uganda           |
+| 📞 **Phone**          | +(256)-751109725           |
+|                      | <a href="tel:+256778254366">+(256)-778254366</a> |         |
+|                      | +(601)-77183570            |
+| 📧 **Email**          | lwangaaksam@gmail.com     |
+|                      | aksam@graduate.utm.my     |
 | 🌐 **Website**        | [aboutaksam.netlify.app](https://aboutaksam.netlify.app) |
 
 ## Personal Statement
