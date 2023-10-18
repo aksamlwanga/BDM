@@ -22,9 +22,9 @@
  
 
 ## Personal Statement
-I am a versatile **Software Engineer** with a strong track record of contributing to team-developed projects. I am a *collaborative designer* of innovative solutions and tailor-made products. My expertise in **programming** and my talent for creating **unique art** make me a valuable asset.
+**I'm a versatile Software Engineer** with a proven track record of contributing to team projects. *I specialize in designing creative solutions and custom products.* **My programming skills and ability to create unique art** make me a valuable asset.
 
-My insatiable intellectual curiosity drives me to constantly seek ways to *add value* to my colleagues. I approach each day with a *positive mindset*, emphasizing **action** over mere words. My work is guided by a commitment to *excellence* and a belief in a *higher purpose*.
+My work is guided by a commitment to *excellence* and a belief in a *higher purpose.* I'm always eager to learn and find ways to help my colleagues. I approach each day with a *positive attitude*, focusing on actions rather than words.
 
 ## Work Experience
 
