@@ -15,11 +15,8 @@
 |                      | aksam@graduate.utm.my     |
 | 🌐 **Website**        | [aboutaksam.netlify.app](https://aboutaksam.netlify.app) |
 
-
-## Connect with Me
-
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aprilspeight">
+  <a href="https://www.linkedin.com/in/aksam-lwanga-a5935618b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
