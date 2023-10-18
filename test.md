@@ -85,19 +85,31 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 
 
 ## Programming Languages and Tools 
-
-### Programming Languages 
 ## Programming Languages and Tools
 
-- [![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/), [![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)](https://en.wikipedia.org/wiki/C_(programming_language)), [![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)](https://www.php.net/), [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [![HTML / CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML), [![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg)](https://www.java.com/), [![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)](https://www.mysql.com/), [![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/), [![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactnative.dev/), [![SEO](https://raw.githubusercontent.com/devicons/devicon/master/icons/seo/seo-original.svg)](https://en.wikipedia.org/wiki/Search_engine_optimization), [![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)](https://www.python.org/), [![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)](https://www.djangoproject.com/), [![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg)](https://laravel.com/), and [![Anaconda](https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg)](https://www.anaconda.com/).
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg) GitHub |
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) C |
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg) PHP |
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript |
+![HTML / CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) HTML / CSS |
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg) Java |
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) MySQL |
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React |
+![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) React Native |
+![SEO](https://raw.githubusercontent.com/devicons/devicon/master/icons/seo/seo-original.svg) SEO |
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg) Python |
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg) Django |
+![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg) Laravel |
+![Anaconda](https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg) Anaconda
 
 ## Development Tools
 
-- [![Visual Studio Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg)](https://code.visualstudio.com/), [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/), [![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg)](https://www.microsoft.com/en-us/windows), [![macOS](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg)](https://www.apple.com/macos), [![Android Studio](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg)](https://developer.android.com/studio), and [![Xcode](https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg)](https://developer.apple.com/xcode/).
-
-### Development Tools
-
-
+![Visual Studio Code](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg) Visual Studio Code |
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) Linux |
+![Windows](https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg) Windows |
+![macOS](https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg) macOS |
+![Android Studio](https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg) Android Studio |
+![Xcode](https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg) Xcode
 
 
 
