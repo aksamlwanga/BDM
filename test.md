@@ -84,8 +84,8 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 **|**  Critical Thinking **|**
 
 
-## Programming Languages and Tools
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />
+##<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" /> Programming Languages and Tools
+
 
 
 
