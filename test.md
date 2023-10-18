@@ -95,11 +95,10 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40" height="40">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seo/seo-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original-wordmark.svg" width="40" height="60">
 
 ## Development Tools
 
