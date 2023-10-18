@@ -1,14 +1,27 @@
 # Your Name
 
+# Personal Information
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
+
 ![Profile Avatar](profile_avatar_image.png)
 
-## Personal Information
+<div style="margin-left: 20px;">
 
-- **Name:** Your Name
-- **Location:** Your Location
-- **Email:** Your Email
-- **LinkedIn:** [Your LinkedIn Profile](link_to_linkedin)
-- **GitHub:** [Your GitHub Profile](link_to_github)
+- 💼 **Sex:** MALE
+- 🎂 **Date of Birth:** 21/10/1997
+- 🌍 **Nationality:** UGANDAN, LWANGA AKSAM
+- 📍 **Location:** Kampala, Uganda
+- 📞 **Phone:** 
+  - +256751109725
+  - +256778254366
+  - +60177183570
+- 📧 **Email:** lwangaaksam@gmail.com
+- 🌐 **Website:** [aboutaksam.netlify.app](https://aboutaksam.netlify.app)
+
+</div>
+</div>
+
 
 ## Personal Statement
 
