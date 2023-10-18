@@ -120,3 +120,7 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 - [ResearchGate](https://www.researchgate.net/profile/Aksam-Lwanga-2)
 - [Observer Uganda Article](https://observer.ug/businessnews/77946-aspen-personal-assistant-eases-research-for-university-students)
 
+
+⏳ **Year Progress** { ███████████████████████▁▁▁▁▁▁▁ } 79.46 % as on ⏰ 18-Oct-2023
+
+---
