@@ -1,7 +1,7 @@
 <p align="center">
   <img src="passport_id.jpg" alt="Profile Avatar">
 </p>
-<h1>LWANGA AKSAM</h1>
+<h1 align="center">LWANGA AKSAM</h1>
 
 ## Personal Information
 | 💼 **Sex**           | MALE                      |
