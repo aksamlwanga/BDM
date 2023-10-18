@@ -1,7 +1,7 @@
 <p align="center">
   <img src="passport_id.jpg" alt="Profile Avatar">
 </p>
-# <span style="color:#4CAF50; font-style:italic;">LWANGA AKSAM</span>
+<h1>LWANGA AKSAM</h1>
 
 ## Personal Information
 | 💼 **Sex**           | MALE                      |
@@ -22,12 +22,7 @@
   <a href="https://www.linkedin.com/in/aprilspeight">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@mam.doestech">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://www.twitter.com/vogueandcode">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
 
 ## Personal Statement
 
