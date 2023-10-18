@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px;">
 
-![Profile Avatar](profile_avatar_image.png)
+![Profile Avatar](passport_id.jpg)
 
 <div style="margin-left: 20px;">
 
