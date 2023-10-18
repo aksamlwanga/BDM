@@ -110,8 +110,12 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg" width="40" height="40">
 
 
-## Projects
+## Links
 
-- [Project 1](project1.md): Brief description.
-- [Project 2](project2.md): Brief description.
-- [Project 3](project3.md): Brief description.
+- [Kayunga Community Club](https://www.kayungacommunityclub.org/)
+- [Aspen Uganda](https://aspenuganda.com/)
+- [Twitter](https://twitter.com/lwanga_aksam)
+- [Instagram](https://www.instagram.com/lwanga.aksam/)
+- [ResearchGate](https://www.researchgate.net/profile/Aksam-Lwanga-2)
+- [Observer Uganda Article](https://observer.ug/businessnews/77946-aspen-personal-assistant-eases-research-for-university-students)
+
