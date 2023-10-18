@@ -61,23 +61,15 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 
 ## Education Background
 
-|**Bachelor of Science in Software Engineering**  |
-*August 2018 - March 2023*  
-*Makerere University, Kampala, Uganda*
+| **Bachelor of Science in Software Engineering** | **August 2018 - March 2023** | *Makerere University, Kampala, Uganda* |
+| --- | --- | --- |
+| - **CGPA:** 4.59/5 (First Class Degree). | - Awarded the title of **Best Graduate** | - Received a **Madhavani sponsorship** to support my studies. |
+| - Completed a dissertation in **Embedded Systems development**. | | |
 
-- **CGPA:** 4.59/5 (First Class Degree).
-- Awarded the title of **Best Graduate** 
-- Received a **Madhavani sponsorship** to support my studies.
-- Completed a dissertation in **Embedded Systems development**.
- | 
-|**Uganda Advanced Certificate of Education (U.A.C.E)** | 
-|*May 2016 - August 2017*  
-*Wakataayi Secondary School, Zirobwe-Luweero, Uganda*
-
-- Received several scholarships and successfully completed the advanced level of education.
-- Awarded the Uganda Advanced Certificate of Education with a score of 15 points (PEM/ICT).
-- Served as a member of the Wakataayi Muslims Student Association.
-- Elected as the Head Prefect for the academic year 2016/2017.|
+| **Uganda Advanced Certificate of Education (U.A.C.E)** | **May 2016 - August 2017** | *Wakataayi Secondary School, Zirobwe-Luweero, Uganda* |
+| --- | --- | --- |
+| - Received several scholarships and successfully completed the advanced level of education. | - Awarded the Uganda Advanced Certificate of Education with a score of 15 points (PEM/ICT). | - Served as a member of the Wakataayi Muslims Student Association. |
+| - Elected as the Head Prefect for the academic year 2016/2017. | | |
 
 
 ## Personal Skills
