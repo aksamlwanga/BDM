@@ -81,14 +81,13 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 **|**  Technical Support **|**  Staff Education and Training **|** 
 **|**  Knowledgeable in Developing Systems **|**  Telemarketing Expertise **|** 
 **|**  Organization and Time Management **|**  Planning and Coordination **|** 
-**|**  Critical Thinking **|**  Good Communication **|** 
+**|**  Critical Thinking **|**
 
 
 ## Programming Languages and Tools
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="20" />
 
-- Language/Tool 1
-- Language/Tool 2
-- Language/Tool 3
+
 
 ## Projects
 
