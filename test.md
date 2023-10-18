@@ -9,7 +9,7 @@
 | 🌍 **Nationality**    | UGANDAN                   |
 | 📍 **Location**       | Kampala, Uganda           |
 | 📞 **Phone**          | +(256)-751109725           |
-|                      | <a href="tel:+256778254366">+(256)-778254366</a> |         |
+|                      | +(256)-778254366 |       
 |                      | +(601)-77183570            |
 | 📧 **Email**          | lwangaaksam@gmail.com     |
 |                      | aksam@graduate.utm.my     |
