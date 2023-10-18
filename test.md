@@ -73,15 +73,15 @@ My work is guided by a commitment to *excellence* and a belief in a *higher purp
 
 
 ## Personal Skills
-|-----------------|-----------------|
-| Front-end Development | Backend Development |
-| Embedded System Management | Google Workspace |
-| Communication Skills | Problem-solving |
-| Prototyping | Performance Improvement |
-| Technical Support | Staff Education and Training |
-| Knowledgeable in Developing Systems | Telemarketing Expertise |
-| Organization and Time Management | Planning and Coordination |
-| Critical Thinking | Good Communication |
+
+**|** Front-end Development **|** Backend Development **|**
+**|** Embedded System Management **|**  Google Workspace **|** 
+**|**  Communication Skills **|**  Problem-solving **|** 
+**|**  Prototyping **|**  Performance Improvement **|** 
+**|**  Technical Support **|**  Staff Education and Training **|** 
+**|**  Knowledgeable in Developing Systems **|**  Telemarketing Expertise **|** 
+**|**  Organization and Time Management **|**  Planning and Coordination **|** 
+**|**  Critical Thinking **|**  Good Communication **|** 
 
 
 ## Programming Languages and Tools
