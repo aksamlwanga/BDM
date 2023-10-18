@@ -1,4 +1,9 @@
 # LWANGA AKSAM
+<p align="center">
+  <img src="passport_id.jpg" alt="Profile Avatar" width="200" height="200">
+</p>
+
+<h1 align="center">LWANGA AKSAM</h1>
 
 ## Personal Information
 
