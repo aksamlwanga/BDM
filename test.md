@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="passport_id.jpg" alt="Profile Avatar" width="200" height="200">
+  <img src="passport_id.jpg" alt="Profile Avatar">
 </p>
 
-<h1 align="center">LWANGA AKSAM</h1>
+<h1 align="center" style="color🍏">LWANGA AKSAM</h1>
 
 ## Personal Information
 
