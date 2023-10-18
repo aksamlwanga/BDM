@@ -6,18 +6,26 @@
 
 ## Personal Information
 
-- 💼 **Sex:** MALE
-- 🎂 **Date of Birth:** 21/10/1997
-- 🌍 **Nationality:** UGANDAN
-- 📍 **Location:** Kampala, Uganda
-- 📞 **Phone:**
-  - +(256)-751109725
-  - +(256)-778254366
-  - +(601)-77183570
-- 📧 **Email:**
-  - lwangaaksam@gmail.com
-  - aksam@graduate.utm.my
-- 🌐 **Website:** [aboutaksam.netlify.app](https://aboutaksam.netlify.app)
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; width: 50%;">
+      - 💼 **Sex:** MALE
+      - 🎂 **Date of Birth:** 21/10/1997
+      - 🌍 **Nationality:** UGANDAN
+      - 📍 **Location:** Kampala, Uganda
+      - 📞 **Phone:**<br>
+        - +(256)-751109725<br>
+        - +(256)-778254366<br>
+        - +(601)-77183570
+    </td>
+    <td style="border: none; width: 50%;">
+      - 📧 **Email:**<br>
+        - lwangaaksam@gmail.com<br>
+        - aksam@graduate.utm.my
+      - 🌐 **Website:** [aboutaksam.netlify.app](https://aboutaksam.netlify.app)
+    </td>
+  </tr>
+</table>
 
 ## Personal Statement
 
